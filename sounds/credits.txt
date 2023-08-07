@@ -1,0 +1,26 @@
+Sounds used in Sea Battle
+
+Name: Radar, Something Detected, 05 Sec.wav
+Created by: MATRIXXX_
+License: http://creativecommons.org/publicdomain/zero/1.0/
+Modificaitons: shortened to 2 seconds
+
+Name: » Submarie dive horn_better.wav
+Created by: CGEffex
+License: https://creativecommons.org/licenses/by/4.0/
+Modifications: none
+
+Name: 01650 underwater bubbles.wav
+Created by: Robinhood76
+License: https://creativecommons.org/licenses/by-nc/4.0/
+Modifications: shortened to 5 seconds
+
+Name: Another Bomb (modal).wav
+Created by: pcruzn
+License: https://creativecommons.org/licenses/by/4.0/
+Modifications: none
+
+Name:  Underwater Deep Impact
+Created by: Sheyvan
+License: http://creativecommons.org/publicdomain/zero/1.0/
+Modifications: none
